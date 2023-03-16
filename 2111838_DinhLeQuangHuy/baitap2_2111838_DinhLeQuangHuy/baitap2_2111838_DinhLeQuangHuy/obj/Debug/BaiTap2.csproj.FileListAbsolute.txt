@@ -1,0 +1,14 @@
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\bin\Debug\BaiTap2.exe
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.frmBai1.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.frmChinh.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.Properties.Resources.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.exe
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.pdb
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.frmBai2.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.frmBai3.resources
+D:\CTK45A\Năm 2\Phát triển ứng dụng Desktop\BaiTap2\obj\Debug\BaiTap2.frmBai4.resources
